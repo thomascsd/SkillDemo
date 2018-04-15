@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode >
+        <siteMapNode url="" title="問卷"  description="" >
+            <siteMapNode url="~/QuestionnaireList" title="問卷管理"  description="" />
+            <siteMapNode url="~/ShowQuestionnaire" title="問卷顯示"  description="" />
+        </siteMapNode>
+        <siteMapNode url="" title="自定表單">
+            <siteMapNode url="~/FormList" title="表單管理"/>
+            <siteMapNode url="~/ShowForm" title="顯示表單"/>
+        </siteMapNode>
+    </siteMapNode>
+</siteMap>

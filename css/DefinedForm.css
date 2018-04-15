@@ -1,0 +1,15 @@
+﻿#pnlForm, #pnlMessage { width: 100%; background-color: #fff; }
+ul { list-style-type: none; }
+ul.definedForm input { font-size: 12px; }
+ul.definedForm { width: 90%; margin: 5px auto; color: #000; }
+ul.definedForm li { clear: both; margin-bottom: 8px; width: 100%; }
+div.title, div.content { float: left; padding: 5px; font-size: 14px; }
+div.title { text-align: left; }
+div.content { text-align: left; width: 500px; }
+div.content span { margin-right: 3px; }
+div.content span label { padding: 6px; }
+#pnlForm h2 { font-size: 18px; font-weight: bold; text-align: center; margin-bottom: 5px; }
+.error { color: #ff0000; }
+li.cmd { text-align: center; }
+li.cmd input { font-size: 14px; }
+#pnlMessage span { display: block; width: 90%; font-size: 15px; font-weight: bold; margin: 10px auto; }

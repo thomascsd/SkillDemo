@@ -1,0 +1,23 @@
+﻿#simplemodal-overlay
+{
+    background-color: #999;
+}
+#simplemodal-container
+{
+    height: 400px;
+    width: 600px;
+    background-color: #fff;
+    border: 3px solid #ccc;
+}
+#simplemodal-container a.modalCloseImg
+{
+    background: url(../images/close.png) no-repeat;
+    width: 35px;
+    height: 35px;
+    display: inline;
+    z-index: 3200;
+    position: absolute;
+    top: -15px;
+    right: -18px;
+    cursor: pointer;
+}
